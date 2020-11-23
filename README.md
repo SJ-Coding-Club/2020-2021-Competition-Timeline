@@ -12,8 +12,10 @@ If you're new to contests, here are some great, hands-on platforms you can use 2
 The first few challenges are noob-friendly, but increase in difficulty as you prgoress. These are a <i>great</i> way to get into hacking / reverse-engineering if you don't know where to start. You will use less programming and more tinkering & trial and error. Don't give up if you get lost or confused! Work with others if you can - I know Hacker 101 has a built-in group capability, so I might set aside some days for us to work on these in a group call as well.
 
 [Hacker 101 CTF](https://ctf.hacker101.com/ctf)
+- You are given a link to a dummy website to hack. Whenever you find a major vulnerability (there are a set number of them for each challenge), you are given a "flag." After you get the first few flags, some of the challenges can seem pretty hard, but once you start collecting those tougher flags, it gets really fun and kind of addicting to keep hacking.
 
 [The Python Challenge](http://www.pythonchallenge.com/)
+- A little more laid back and beginner-friendly, but requires you to think out of the box a lot.
 
 <b>Please</b> do <i>not</i> (!!!) use the techniques you learn from these exercises on other people's websites! You could get in a lot of trouble!
 
