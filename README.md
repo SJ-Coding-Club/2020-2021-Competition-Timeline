@@ -1,5 +1,5 @@
 # Getting Started
-If you're new to contests, here are some great, hands-on platforms you can use 24/7 to get you started! They've definitely helped me a lot.
+If you're new to contests, here are some great hands-on platforms you can use 24/7 to get you started! They've definitely helped me a lot.
 
 ### Programming Practice
 
